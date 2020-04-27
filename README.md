@@ -1,2 +1,2 @@
-# Angry-Birds-Day-3
-We learnt about inheritance and DRY.We also animated the game so far.
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
